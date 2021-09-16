@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://amirnathani9.github.io/csb-o34s3/static/css/main.c14746f8.chunk.css",
+    "main.js": "https://amirnathani9.github.io/csb-o34s3/static/js/main.b280eb74.chunk.js",
+    "main.js.map": "https://amirnathani9.github.io/csb-o34s3/static/js/main.b280eb74.chunk.js.map",
+    "runtime-main.js": "https://amirnathani9.github.io/csb-o34s3/static/js/runtime-main.509707d8.js",
+    "runtime-main.js.map": "https://amirnathani9.github.io/csb-o34s3/static/js/runtime-main.509707d8.js.map",
+    "static/js/2.c65b6eb5.chunk.js": "https://amirnathani9.github.io/csb-o34s3/static/js/2.c65b6eb5.chunk.js",
+    "static/js/2.c65b6eb5.chunk.js.map": "https://amirnathani9.github.io/csb-o34s3/static/js/2.c65b6eb5.chunk.js.map",
+    "index.html": "https://amirnathani9.github.io/csb-o34s3/index.html",
+    "static/css/main.c14746f8.chunk.css.map": "https://amirnathani9.github.io/csb-o34s3/static/css/main.c14746f8.chunk.css.map",
+    "static/js/2.c65b6eb5.chunk.js.LICENSE.txt": "https://amirnathani9.github.io/csb-o34s3/static/js/2.c65b6eb5.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.509707d8.js",
+    "static/js/2.c65b6eb5.chunk.js",
+    "static/css/main.c14746f8.chunk.css",
+    "static/js/main.b280eb74.chunk.js"
+  ]
+}
